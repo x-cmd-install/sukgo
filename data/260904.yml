@@ -7,7 +7,7 @@ about:
   head: c13de39
   archived: false
   latestVersion: v0.0.13
-  collectedAt: 2026-09-04T19:31:48Z
+  collectedAt: 2026-09-04T20:58:17Z
 timeline:
   created: 2026-04-26
   lastCommit: 2026-05-21
@@ -82,5 +82,38 @@ total:
   openIssue: 0
   commit: 22
 ---
+path: /home/runner/.x-repo/github.com/reallygood83/sukgo
+collectedAt: 2026-09-04T20:58:17Z
+loc:
+  Python:
+    code: 2760
+    comments: 165
+    blanks: 397
+    files: 3
+  PowerShell:
+    code: 238
+    comments: 46
+    blanks: 44
+    files: 2
+  Sh:
+    code: 200
+    comments: 53
+    blanks: 38
+    files: 2
+  Markdown:
+    code: 0
+    comments: 729
+    blanks: 257
+    files: 4
+  Text:
+    code: 0
+    comments: 6
+    blanks: 1
+    files: 1
+total:
+  code: 3256
+  comments: 1008
+  blanks: 737
+  files: 12
 ---
 
