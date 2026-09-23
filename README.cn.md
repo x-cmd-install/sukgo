@@ -4,7 +4,7 @@
 
 🧙 sukgo (숙고) — 결정의 기술 CLI. Claude Pro·ChatGPT Plus·Gemini를 한 자리에 모아 비교·종합·원탁토론으로 더 깊이 사고하게 도와주는 한국어 의사결정 도구.
 
-[![x-cmd/install — sukgo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sukgo.svg?lang=zh)](https://x-cmd.com/install/sukgo)
+[![x-cmd/install — sukgo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sukgo.svg?lang=zh)](https://x-cmd.com/install/sukgo)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install sukgo
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 8 | 0 | 0 | 0 | 0 | 22 |
-| 360d | 2025-09-27 | 8 | 0 | 0 | 0 | 0 | 22 |
-| last720d | 2024-10-02 | 8 | 0 | 0 | 0 | 0 | 22 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 8 | 0 | 0 | 0 | 0 | 22 |
+| 360d | 2025-09-28 | 8 | 0 | 0 | 0 | 0 | 22 |
+| last720d | 2024-10-03 | 8 | 0 | 0 | 0 | 0 | 22 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ sukgo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:28:52Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:33:55Z._
