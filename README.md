@@ -47,12 +47,12 @@ Total: **3,198** lines of code across **12** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-13 | 8 | 0 | 0 | 0 | 0 | 22 |
-| last720d | 2024-11-18 | 8 | 0 | 0 | 0 | 0 | 22 |
+| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-14 | 8 | 0 | 0 | 0 | 0 | 22 |
+| last720d | 2024-11-19 | 8 | 0 | 0 | 0 | 0 | 22 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for sukgo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:24:34Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:08:44Z._
